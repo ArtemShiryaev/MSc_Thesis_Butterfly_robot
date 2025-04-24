@@ -1,4 +1,4 @@
-# Calibration and Simulation of Robot Dynamics in Forced Motion
+# From Data to Dynamics: A Statistical Case Study on Modeling the Butterfly Robot
 
 This repository contains the MATLAB code and Simulink models used in the research project detailed in the thesis: *The Case Study of Calibrating the Dynamics of a Robot in the Vicinity of its Forced Motion*. This project focuses on identifying and recalibrating the parameters of the dynamic model of a robotic system using grey-box modeling techniques and frequency response analysis. The research is demonstrated through simulations and real data collection using the Butterfly Robot developed by Robotikum AB.
 
